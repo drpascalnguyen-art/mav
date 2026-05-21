@@ -2,12 +2,12 @@
   "name": "Mav — Anxiety Companion",
   "short_name": "Mav",
   "description": "Calm tools for anxiety: breathing, grounding, journal, and panic support.",
-  "start_url": "/",
+  "start_url": "/mav/",
   "display": "standalone",
   "background_color": "#FAF6F0",
   "theme_color": "#FAF6F0",
   "orientation": "portrait",
-  "scope": "/",
+  "scope": "/mav/",
   "icons": [
     {
       "src": "icon-192.png",
